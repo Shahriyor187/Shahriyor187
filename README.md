@@ -31,4 +31,4 @@ I'm interested in how software can solve real problems, especially in education.
 
 ### Find me
 
-[**SATPrepPros**](https://satpreppros.uz/) · [**SATPrepPros Telegram channel**](https://t.me/SATPrepPros_uz) · [**My GitHub repositories**](https://github.com/Shahriyor187?tab=repositories)
+[**Telegram (personal)**](https://t.me/Leader187) · [**LinkedIn**](https://www.linkedin.com/in/shahriyor-murodilov-9347992a0/) · [**SATPrepPros Telegram channel**](https://t.me/SATPrepPros_uz) · [**SATPrepPros website**](https://satpreppros.uz/) · [**GitHub repositories**](https://github.com/Shahriyor187?tab=repositories)
