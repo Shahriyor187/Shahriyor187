@@ -15,8 +15,8 @@ I enjoy building practical software—from backend systems and developer tools t
 | Project | What it does | Links |
 | --- | --- | --- |
 | **SATPrepPros** | An SAT practice platform built with ASP.NET Core and PostgreSQL. | [Live website](https://satpreppros.uz/) |
-| **DataExport** | Generic object export, configurable CSV/XLSX, typed Excel cells, and stream-based output. | [GitHub](https://github.com/Shahriyor187/DataExport) · [NuGet](https://www.nuget.org/packages/DataExport/2.0.0) |
-| **ExcelExportKit** | Worksheet selection, typed JSON, formatted PDF/Word output, and batch conversions. | [GitHub](https://github.com/Shahriyor187/ExcelExportKit) · [NuGet](https://www.nuget.org/packages/ExcelExportKit/2.0.0) |
+| **DataExport** | Generic object export, configurable CSV/XLSX, typed Excel cells, and stream-based output. | [GitHub](https://github.com/Shahriyor187/DataExport) · [NuGet](https://www.nuget.org/packages/DataExport/2.1.0) |
+| **ExcelExportKit** | Worksheet selection, typed JSON, formatted PDF/Word output, and batch conversions. | [GitHub](https://github.com/Shahriyor187/ExcelExportKit) · [NuGet](https://www.nuget.org/packages/ExcelExportKit/2.1.0) |
 
 ### Tech I work with
 
